@@ -86,4 +86,6 @@ part1 = getElementStr(elementOneR)
 part2 = getElementStr(elementTwoR)
 part3 = str(elementOneP[2]) + userInput
 
+print("")
+print("Result: ")
 print(part1 + " + " + part2 + " -> " + part3)
